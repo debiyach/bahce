@@ -1,19 +1,13 @@
-# Quartz
+### Başlangıç
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+Fikir, duygu ve bilgilerimin tohumlarını rastgele olarak ekiyordum. Daha sonra tohumların yerini unutuyor ve su veremiyordum. Enerji kaynağım yani bahçemin günden güne solmasına neden oluyordu. Yoğun iş temposu ve kafamdaki kayıtsız belgeler bahçeyi iyice zehirledi.
 
-1. Extremely fast natural-language search
-2. Customizable and hackable design based on Hugo
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in CJK + Latex Support and Admonition-style callouts
-5. Support for both Markdown Links and Wikilinks
+Buna dur demenin vakti geldi. Karar alıp işimden istifamı istedim. Bahçeyi acilen hayata döndürmeliyim. 
 
-Check out some of the [amazing gardens that community members](https://quartz.jzhao.xyz/notes/showcase/) have published with Quartz!
+---
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Bahçe bir metafor olmakla birlikte bir insanın yaşamını temsil ediyor. Hedefim; bahçeyle en güzel şekilde ilgilenip, arkada güzellikler bırakmak.
 
-🔗 Get Started: https://quartz.jzhao.xyz/
 
-![Quartz Example Screenshot](./screenshot.png)*Quartz Example Screenshot*
+Bu bahçe [Obsidian](https://obsidian.md/) not alma sistemiyle [Quartz](https://github.com/jackyzha0/quartz) kullanılarak oluşturulmuştur.
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
