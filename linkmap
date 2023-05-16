@@ -1,5 +1,13 @@
+/quartz/editing/index.{html} /quartz/editing/
+/quartz/host/index.{html} /quartz/host/
+/quartz/obsidian-vault-integration/index.{html} /quartz/obsidian-vault-integration/
+/quartz/quartz/index.{html} /quartz/quartz/
+/quartz/setup/index.{html} /quartz/setup/
+/roadmap/index.{html} /roadmap/
 /index.html /
-/genclige-hitabe/index.{html} /genclige-hitabe/
 /myself/index.{html} /myself/
 /obsidian/index.{html} /obsidian/
-/roadmap/index.{html} /roadmap/
+/quartz/preview/index.{html} /quartz/preview/
+/quartz/sss/index.{html} /quartz/sss/
+/genclige-hitabe/index.{html} /genclige-hitabe/
+/golang/hugo/index.{html} /golang/hugo/
