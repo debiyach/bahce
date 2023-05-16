@@ -1,10 +1,8 @@
 ---
 enableToc: false
-title: Yol Haritası
+title: "Yol Haritası"
 ---
-
-#### Kendim
-- [[myself|Hikayem]]
 
 #### Not
 - [[obsidian|Obsidian]]
+- [[quartz/quartz|Quartz]]
