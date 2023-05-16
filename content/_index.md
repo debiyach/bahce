@@ -19,8 +19,9 @@ Yolculuğa çıkmaya değil debelenmeye ve azmin gücüne hazır mısın? O zama
 
 Ulu önder **Mustafa Kemal ATATÜRK**' ün, [[genclige-hitabe|Gençliğe Hitabe]]sini unutma ve dünyaya bir çok değer katan liderin söylediklerine tüm benliğinle sarıl.
 
-> Ey Türk istikbalinin evladı! İşte, bu ahval ve şerait içinde dahi vazifen, Türk istiklal ve cumhuriyetini kurtarmaktır. Muhtaç olduğun kudret, damarlarındaki asil kanda mevcuttur. 
-	Mustafa Kemal ATATÜRK
+> [!tip] Mustafa Kemal ATATÜRK 
+> 
+> "Ey Türk istikbalinin evladı! İşte, bu ahval ve şerait içinde dahi vazifen, Türk istiklal ve cumhuriyetini kurtarmaktır. Muhtaç olduğun kudret, damarlarındaki asil kanda mevcuttur. "
 
 Minnet ve özlemle...
 
@@ -30,10 +31,13 @@ Minnet ve özlemle...
 
 Bu bölümde bahçeye ekilecek tohum not ediyorum. 
 
-- [ ] [Obsidian](https://obsidian.md/) hakkında bilgilendirme.
 - [ ] [Quartz](https://quartz.jzhao.xyz/) hakkında bilgilendirme ve entegrasyonu.
+- [ ] PHP programlama diline giriş.
 
 ---
 
+### Yol Haritası
+
+Daha düzgün bir görünümde olması için tüm içeriklerin üst başlıklarını bir sayfada toplayacağım. Bir alt konu da yine ayrı bir üst başlıkta olacaktır. Graph yapısını en etkin şekilde kullanmayı amaçladım. [[roadmap|Buraya tıklayıp, gezinebilirsiniz.]]
 
 
