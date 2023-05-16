@@ -3,7 +3,7 @@ title: Ben
 ---
 
 ### Mahlas 
-Ben Ömer Faruk, mahlasım `debiyach`. Mahlasım bir tık garip gelebilir 🙂. Geçmişi sorgularken, oyunlarda hiç mahlasım olmadığını fark ettim(`TheJuDGe`, `CaSSandra`...). Şaşalı bir ingilizce bir mahlas ararken; yöremize ait bir kelime gözüme çarptı, `debiyak`. Anlamı "**biraz önce**" demek. Bende son harfini değiştirdim ve artık mahlasım oldu.
+Ben Ömer Faruk, mahlasım `debiyach`. Mahlasım bir tık garip gelebilir 🙂. Geçmişi sorgularken, oyunlarda hiç mahlasım olmadığını fark ettim(`TheJuDGe`, `CaSSandra`...). İngilizce bir mahlas ararken; yöremize ait bir kelime gözüme çarptı, `debiyak`. Anlamı "**biraz önce**" demek. Bende son harfini değiştirdim ve artık mahlasım oldu.
 
 ---
 
