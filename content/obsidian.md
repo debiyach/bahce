@@ -1,11 +1,11 @@
 ---
-title: Obsidian 🗓️
+title: "Obsidian 🗓️"
 ---
 
-### Obsidian nedir?
+## Obsidian nedir?
 Obsidian, bir not alma ve bilgi yönetimi uygulamasıdır. Markdown tabanlı bir yapıya sahip olan Obsidian, kullanıcıların notlarını, düşüncelerini ve bilgilerini bağlantılarla birbirine bağlayarak bir "zihin haritası" oluşturmalarına olanak tanır.
 
-### Obsidian'ı diğer not alma uygulamalardan ayıran özellikler nelerdir?
+## Obsidian'ı diğer not alma uygulamalardan ayıran özellikler nelerdir?
 Obsidian'ı diğer not alma uygulamalarından ayıran bazı özellikler şunlardır:
 
 - **Bağlantılı notlar:** Obsidian'da notlar arasında bağlantılar oluşturarak bilgileri birbirine bağlayabilirsiniz. Bu şekilde farklı notlar arasındaki ilişkileri görselleştirebilir ve bağlantıları takip ederek bilginin derinlemesine keşfedebilirsiniz.
@@ -14,14 +14,14 @@ Obsidian'ı diğer not alma uygulamalarından ayıran bazı özellikler şunlard
 - **Güçlü arama ve filtreleme:** Obsidian, notlarınızı kolayca aramanızı ve filtrelemenizi sağlar. Etiketleme, başlık aramaları ve içerik aramaları gibi özelliklerle hızlı ve etkili bir şekilde istediğiniz bilgilere erişebilirsiniz.
 
 
-### Obsidian ile hangi platformlarda çalışabilirsiniz?
+## Obsidian ile hangi platformlarda çalışabilirsiniz?
 Obsidian, Windows, macOS ve Linux gibi işletim sistemlerinde kullanılabilir. Ayrıca, Obsidian Sync hizmetini kullanarak notlarınızı farklı cihazlar arasında senkronize edebilirsiniz.
 
 > [!info]
-> git ile entegre ettim. Ek olarak ücret ödemek istemedim ve malum dolar ülkemizde ateş pahası.
+> Ben sistemi `git` ile entegre ettim. Ek olarak ücret ödemek istemedim. Malum, dolar ülkemizde ateş pahası.
 
 
-### Obsidian'ı daha verimli kullanmak için hangi ipuçlarına sahipsiniz?
+## Obsidian'ı daha verimli kullanmak için hangi ipuçlarına sahipsiniz?
 Obsidian'ı daha verimli kullanmanızı sağlayacak bazı ipuçları şunlardır:
 
 - **Etiketleri ve bağlantıları aktif bir şekilde kullanın:** Notlarınıza etiketler ekleyerek ilgili konuları gruplayabilir ve hızlı erişim sağlayabilirsiniz. Aynı şekilde, notlar arasında bağlantılar oluşturarak ilişkili bilgileri birbirine bağlayabilirsiniz.
@@ -31,7 +31,7 @@ Obsidian'ı daha verimli kullanmanızı sağlayacak bazı ipuçları şunlardır
 - **Eklenti sayfasına göz atın:** Obsidian' ın eklenti sayfasına belli aralıklarla göz atın. İşinize yarayacak bir çok eklenti bulabilirsiniz.
 
 ---
-#### Önerdiğim Kaynaklar:
+## Önerdiğim Kaynaklar
 - [Obsidian - Yusuf İpek](https://www.youtube.com/watch?v=ArOIk3c8mbE)
 - [Forum - Obsidian](https://forum.obsidian.md/)
 - [Guide - Obsidian](https://help.obsidian.md/Home)
