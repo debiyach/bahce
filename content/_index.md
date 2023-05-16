@@ -5,7 +5,7 @@ title: Dijital Bahçe 🌱
 
 ### Hoşgeldin 👋
 
-Merhaba, Ben **Ömer Faruk**. Burası benim dijital bahçem. 
+Merhaba, Ben [[myself|Ömer Faruk]]. Burası benim dijital bahçem. 
 
 İnsan; doğar, büyür ve ölür. Yaşantımda insanlığın ilerlemesine katkıda bulunacak sistemler geliştirmeyi amaçladım. Amaçladığım yoldan sapmamak adına bahçemi inşa ediyorum. 
 
@@ -31,7 +31,10 @@ Minnet ve özlemle...
 
 Bu bölümde bahçeye ekilecek tohum not ediyorum. 
 
-- [ ] [Quartz](https://quartz.jzhao.xyz/) hakkında bilgilendirme ve entegrasyonu.
+- [x] [[obsidian|Obsidian]] tanımı.
+- [x] [[quartz/quartz|Quartz]] tanımı.
+- [x] [[quartz/setup|Quartz]] kurulumu.
+- [ ] [Quartz](https://quartz.jzhao.xyz/) içerikleri tamamlama.
 - [ ] PHP programlama diline giriş.
 
 ---
