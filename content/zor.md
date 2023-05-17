@@ -13,55 +13,55 @@ Aşağıya bak...
 
 1. Bu fotoğraftaki genç, hatıra olarak annesine göndermek için bu fotoğrafı çektirdiğinde 24 yaşındaydı ve tek hedefi, yüzbaşı olarak Rumeli'ye atanmaktı. Ama **başarısız** oldu. Hapse düştü ve Suriye'ye sürüldü.
    
-   ![[assets/images/atam-1.png]]
+   ![[images/atam-1.png]]
    
 2. Bu fotoğraftaki genç, bu fotoğrafı çektirdiğinde 27 yaşındaydı ve kurduğu cemiyeti Rumeli'nde teşkilatlandırmak için tam üç yıl mücadele etmişti. Ama **başarısız** oldu.
- ![[assets/images/atam-2.png]]
+ ![[images/atam-2.png]]
 
 3. Bu fotoğraftaki genç, bu fotoğrafı çektirdiğinde 28 yaşındaydı ve bin bir emekle kurduğu cemiyetini geliştirmek istiyordu. Ama **başarısız** oldu. Cemiyetini kapatıp İttihatçılara katıldı.
-   ![[assets/images/atam-3.png]]
+   ![[images/atam-3.png]]
 
 4. Bu fotoğraftaki genç, bu fotoğrafı çektirdiğinde 28 yaşındaydı ve katıldığı cemiyetteki yanlışları düzeltmek için çabaladı. Ama **başarısız** oldu. Önce suikast düzenlendi. Ardından Libya'ya sürüldü. 
    
-   ![[assets/images/atam-5.png]]
+   ![[images/atam-5.png]]
    
 5. Bu fotoğraftaki genç, bu fotoğrafı çektirdiğinde 31 yaşındaydı vatan toprağını korumak için gizli bir kimlikle gerilla savaşına katıldı. Ama **başarısız** oldu. Yaralandı. Neredeyse gözünü kaybediyordu. 
    
-   ![[assets/images/atam-5.png]]
+   ![[images/atam-5.png]]
 
 6. Bu fotoğraftaki genç, bu fotoğrafı çektirdiğinde 33 yaşındaydı. Ülkesini kötü gidişattan korumak için çabaladı. Ama **başarısız** oldu. Uzaklaştırılmak için Sofya'ya gönderildi.
-   ![[assets/images/atam-6.png]]
+   ![[images/atam-6.png]]
 
 7. Bu fotoğraftaki genç, bu fotoğrafı çektirdiğinde 36 yaşındaydı. Savaş esnasında yapılan hataları durdurmak ve memleketin çöküşünü engellemek için raporlar yazdı. Ama **başarısız** oldu. Ordudaki görevinden alındı.
-   ![[assets/images/atam-7.png]]
+   ![[images/atam-7.png]]
 
 8. Bu fotoğraftaki genç, bu fotoğrafı çektirdiğinde 37 yaşındaydı. Veliaht Şehzade'yi ülkenin kötü gidişatına karşı harekete geçirmek için çabaladı. Başlarda onu ikna etmişti. Ama **başarısız** oldu. Uzaklaştırmak için cepheye gönderildi.
    
-   ![[assets/images/atam-8.png]]
+   ![[images/atam-8.png]]
 
 9. Bu fotoğraftaki genç, bu fotoğrafı çektirdiğinde 37 yaşındaydı. İşgalcilere teslim olan Tevfik Paşa hükümetinden kurtulmak için Ahmet İzzet Paşa'ya destek verdi. Onun için propaganda yaptı. Ama **başarısız** oldu. Başkent işgal edildi.
    
-   ![[assets/images/atam-9.png]]
+   ![[images/atam-9.png]]
    
 10. Bu fotoğraftaki genç, bu fotoğrafı çektirdiğinde 37 yaşındaydı. Halkı işgale karşı uyandırmak için gazete çıkardı. Ama **başarısız** oldu. Gazetesi maddi imkansızlık nedeniyle kapandı.
 
-![[assets/images/atam-10.png]]
+![[images/atam-10.png]]
 
 11. Bu fotoğraftaki genç, bu fotoğrafı çektirdiğinde 38 yaşındaydı. İşgale karşı halkı örgütlemek için Anadolu'ya geçti. Rütbesi söküldü. Mesleğinden atıldı. Asi ilan edildi.
 
-![[assets/images/atam-11.png]]
+![[images/atam-11.png]]
 
 12. Bu fotoğraftaki genç, bu fotoğrafı çektirdiğinde 38 yaşındaydı. Açılan Meclis-i Mebusan'a başkan seçilmek ve mücadeleyi meclisten yönetmek istedi. Ama **başarısız** oldu. Arkadaşları onu seçmedi.
 
-![[assets/images/atam-12.png]]
+![[images/atam-12.png]]
 
 13. Bu fotoğraftaki genç, bu fotoğrafı çektirdiğinde 38 yaşındaydı. Memleketini kurtarmak için çabalamasına rağmen devleti tarafından asi ilan edildi. Hain ilan edildi. Kafir ilan edildi. Ve idamına hükmedildi.
 
-![[assets/images/atam-13.png]]
+![[images/atam-13.png]]
 
 14. Ve o genç, 23 Nisan 1920 günü, TBMM'yi açtı. Meclis başkanı seçildi. Sonrasını hepimiz biliyoruz. 40 yaşında başkomutan, 41 yaşında kurtarıcı ve 42 yaşında kurucu cumhurbaşkanı... **başarısızlık** onu asla durduramadı.
    
-![[assets/images/atam-14.png]]
+![[images/atam-14.png]]
 
 
 --- 
