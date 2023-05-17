@@ -25,7 +25,7 @@ Harika. Obsidian' ı, Quartz' a bağladığınıza göre bazı ayarları düzelt
 1. `Yeni bağlantı biçimi (New link format)` için `Kasada Mutlak Yol (Absolute path in vault)` değerini seçin.
 2. `Dahili bağlantıları otomatik olarak güncelleme (Automatically update internal links)` ayarını aktif edin.
 
-![[images/obisidan-vault-settings.png]]Örnek Ayar
+![Örnek Ayar](images/obisidan-vault-settings.png)
 
 ## Şablonlar 
 Her yeni Not oluşturmak istediğinizde meta verilerini eklemek sinir bozucu olur. Neyse ki, Obsidian yeni içerik eklemeyi gerçekten kolay hale getiren şablonları destekliyor.
