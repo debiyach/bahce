@@ -17,5 +17,6 @@ Aşağıdaki sıraya göre kurulum işlemlerinizi yapabilirsiniz. Bu kurulum ori
 2. [[quartz/editing|Notları Düzenle]]
 3. [[quartz/obsidian-vault-integration|Obsidian Kasa Entegrasyonu]]
 4. [[quartz/preview|Değişiklikleri Önizleme]]
+5. [[quartz/host|Barındırma]]
 
 Sorun mu yaşıyorsunuz? [[sss|SSS ve Sorun Giderme kılavuzu]]na göz atabilirsiniz.
