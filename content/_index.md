@@ -17,7 +17,7 @@ Yolculuğa çıkmaya değil debelenmeye ve azmin gücüne hazır mısın? O zama
 
 ### Unutma!
 
-Ulu önder **Mustafa Kemal ATATÜRK**' ün, [[genclige-hitabe|Gençliğe Hitabe]]sini unutma ve dünyaya bir çok değer katan liderin söylediklerine tüm benliğinle sarıl.
+Ulu önder [[zor|Mustafa Kemal ATATÜRK]]' ün, [[genclige-hitabe|Gençliğe Hitabe]]sini unutma ve dünyaya bir çok değer katan liderin söylediklerine tüm benliğinle sarıl. En zoru hiçbir zaman yaşamadın!
 
 > [!tip] Mustafa Kemal ATATÜRK 
 > 
