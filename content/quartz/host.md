@@ -27,7 +27,7 @@ Aşağıdaki görsel gibi olacaktır:
 3. Opsiyonel olarak, özel alan adına yönlendirebilirsiniz.
 
 Aşağıdaki görsel gibi olacaktır:
-![[images/quartz-host-github-pages.png]]
+![](images/quartz-host-github-pages.png)
 
 ### Değişiklikleri Göndermek
 Değişikliklerinizi internette görmek için GitHub'a göndermemiz gerekiyor. Quartz bir `git` deposudur. Bu nedenle güncellemek, normal bir yazılım projesiymiş gibi takip edeceğiniz iş akışıyla aynıdır.

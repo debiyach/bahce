@@ -20,7 +20,7 @@ Ardından, depoyu kendi GitHub hesabınıza dönüştürün. **Çatallarken**, 
 
 Hesabınız yoksa, ücretsiz olarak [buradan](https://github.com/join) yapabilirsiniz. Repo çatallama hakkında daha fazla bilgi [GitHub’ın belgeleri](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
 
-![[images/hugo-fork.png]]
+![](images/hugo-fork.png)
 
 ### Klonlama (Clone)
 Depoyu çatalladıktan sonra, dosyaları yerel olarak makinenize indirmeniz gerekir. `Git` yazılımını bilgisayara kurduğunuzdan emin olun. Terminal açıp, clone işleminizi yapabilirsiniz.
