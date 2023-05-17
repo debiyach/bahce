@@ -7,7 +7,7 @@ tags:
 - "Dijital Bahçe"
 ---
 
-## Kendine ait Quartz Oluştur
+## Kendine Ait Quartz Oluştur
 Quartz'ı kurmak temel bir git anlayışı gerektirir. Eğer bilmiyorsanız, [bu kaynak](https://git-scm.com/) başlamak için harika bir yerdir!
 
 ### Çatallama (Fork)
