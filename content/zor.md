@@ -1,12 +1,12 @@
 ---
-title: "Zor Nedir?"
+title: "Zor"
 tags:
 - Saygı
 - Hayat
 - İlham
 ---
 
-## Zor mu?
+## Zor
 Hiçbir zaman zoru yaşamadın, yaşamayacaksın. Nereden mi biliyorum. Çünkü; sen gerektiği kadar okumadın, araştırmadın, çabalamadın. Bunları yaptığını mı düşünüyorsun? 
 
 Aşağıya bak...
@@ -23,7 +23,7 @@ Aşağıya bak...
 
 4. Bu fotoğraftaki genç, bu fotoğrafı çektirdiğinde 28 yaşındaydı ve katıldığı cemiyetteki yanlışları düzeltmek için çabaladı. Ama **başarısız** oldu. Önce suikast düzenlendi. Ardından Libya'ya sürüldü. 
    
-   ![](images/atam-5.png)
+   ![](images/atam-4.png)
    
 5. Bu fotoğraftaki genç, bu fotoğrafı çektirdiğinde 31 yaşındaydı vatan toprağını korumak için gizli bir kimlikle gerilla savaşına katıldı. Ama **başarısız** oldu. Yaralandı. Neredeyse gözünü kaybediyordu. 
    
@@ -39,29 +39,31 @@ Aşağıya bak...
    
    ![](images/atam-8.png)
 
-9. Bu fotoğraftaki genç, bu fotoğrafı çektirdiğinde 37 yaşındaydı. İşgalcilere teslim olan Tevfik Paşa hükümetinden kurtulmak için Ahmet İzzet Paşa'ya destek verdi. Onun için propaganda yaptı. Ama **başarısız** oldu. Başkent işgal edildi.
-   
+9. Bu fotoğraftaki genç, bu fotoğrafı çektirdiğinde 37 yaşındaydı. Ülkesinin işgale uğrayacağını öngörerek direnişe geçmek için bakanlık talep etti. Ama **başarısız** oldu. Ordusu lağvedildi ve görevinden alındı.
    ![](images/atam-9.png)
+10. Bu fotoğraftaki genç, bu fotoğrafı çektirdiğinde 37 yaşındaydı. İşgalcilere teslim olan Tevfik Paşa hükümetinden kurtulmak için Ahmet İzzet Paşa'ya destek verdi. Onun için propaganda yaptı. Ama **başarısız** oldu. Başkent işgal edildi.
    
-10. Bu fotoğraftaki genç, bu fotoğrafı çektirdiğinde 37 yaşındaydı. Halkı işgale karşı uyandırmak için gazete çıkardı. Ama **başarısız** oldu. Gazetesi maddi imkansızlık nedeniyle kapandı.
-
-![](images/atam-10.png)
-
-11. Bu fotoğraftaki genç, bu fotoğrafı çektirdiğinde 38 yaşındaydı. İşgale karşı halkı örgütlemek için Anadolu'ya geçti. Rütbesi söküldü. Mesleğinden atıldı. Asi ilan edildi.
+   ![](images/atam-10.png)
+   
+11. Bu fotoğraftaki genç, bu fotoğrafı çektirdiğinde 37 yaşındaydı. Halkı işgale karşı uyandırmak için gazete çıkardı. Ama **başarısız** oldu. Gazetesi maddi imkansızlık nedeniyle kapandı.
 
 ![](images/atam-11.png)
 
-12. Bu fotoğraftaki genç, bu fotoğrafı çektirdiğinde 38 yaşındaydı. Açılan Meclis-i Mebusan'a başkan seçilmek ve mücadeleyi meclisten yönetmek istedi. Ama **başarısız** oldu. Arkadaşları onu seçmedi.
+12. Bu fotoğraftaki genç, bu fotoğrafı çektirdiğinde 38 yaşındaydı. İşgale karşı halkı örgütlemek için Anadolu'ya geçti. Rütbesi söküldü. Mesleğinden atıldı. Asi ilan edildi.
 
 ![](images/atam-12.png)
 
-13. Bu fotoğraftaki genç, bu fotoğrafı çektirdiğinde 38 yaşındaydı. Memleketini kurtarmak için çabalamasına rağmen devleti tarafından asi ilan edildi. Hain ilan edildi. Kafir ilan edildi. Ve idamına hükmedildi.
+13. Bu fotoğraftaki genç, bu fotoğrafı çektirdiğinde 38 yaşındaydı. Açılan Meclis-i Mebusan'a başkan seçilmek ve mücadeleyi meclisten yönetmek istedi. Ama **başarısız** oldu. Arkadaşları onu seçmedi.
 
 ![](images/atam-13.png)
 
-14. Ve o genç, 23 Nisan 1920 günü, TBMM'yi açtı. Meclis başkanı seçildi. Sonrasını hepimiz biliyoruz. 40 yaşında başkomutan, 41 yaşında kurtarıcı ve 42 yaşında kurucu cumhurbaşkanı... **başarısızlık** onu asla durduramadı.
-   
+14. Bu fotoğraftaki genç, bu fotoğrafı çektirdiğinde 38 yaşındaydı. Memleketini kurtarmak için çabalamasına rağmen devleti tarafından asi ilan edildi. Hain ilan edildi. Kafir ilan edildi. Ve idamına hükmedildi.
+
 ![](images/atam-14.png)
+
+15. Ve o genç, 23 Nisan 1920 günü, TBMM'yi açtı. Meclis başkanı seçildi. Sonrasını hepimiz biliyoruz. 40 yaşında başkomutan, 41 yaşında kurtarıcı ve 42 yaşında kurucu cumhurbaşkanı... **başarısızlık** onu asla durduramadı.
+   
+![](images/atam-15.png)
 
 
 --- 
@@ -87,6 +89,6 @@ Tüm bu siyaset safsatası ve gençlerin körelmesi durumumuzu hiç iyiye götü
 
 Dinleyin ve Güçlenin:
 
-[![](https://i.ytimg.com/vi/wQPtkbAiRrU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEL_eERqg4fwkv_C9FCNWQEjMu8A)](https://youtu.be/wQPtkbAiRrU)
+[İzlemek için tıklayın![İzlemek için tıklayın](https://i.ytimg.com/vi/wQPtkbAiRrU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEL_eERqg4fwkv_C9FCNWQEjMu8A)](https://youtu.be/wQPtkbAiRrU)
 
 [[genclige-hitabe|Ata'mın ruhu şad olsun]].
