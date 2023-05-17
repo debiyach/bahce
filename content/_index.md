@@ -34,7 +34,7 @@ Bu bölümde bahçeye ekilecek tohum not ediyorum.
 - [x] [[obsidian|Obsidian]] tanımı.
 - [x] [[quartz/quartz|Quartz]] tanımı.
 - [x] [[quartz/setup|Quartz]] kurulumu.
-- [ ] [Quartz](https://quartz.jzhao.xyz/) içerikleri tamamlama.
+- [x] [[quartz/setup|Quartz]] içerikleri tamamlama.
 - [ ] PHP programlama diline giriş.
 
 ---
