@@ -98,7 +98,7 @@ baseURL = "https://<github-kullanici-adiniz>.github.io/quartz/"
 ### Dosyaları Yok Sayma
 Tüm notlarınızın yalnızca bir alt kümesini mi yayınlamak istiyorsunuz? Endişelenmeyin, Quartz bunu iki adımlı basit bir işlem haline getiriyor.
 
-❌ [Yayınlanan sayfaların hariç tutulması]([Excluding pages from being published](https://quartz.jzhao.xyz/notes/ignore-notes/))
+❌ [Yayınlanan sayfaların hariç tutulması](https://quartz.jzhao.xyz/notes/ignore-notes/)
 
 ## Docker Desteği
 Eğer bir barındırma hizmeti kullanmak istemiyorsanız, bunun yerine [Docker](https://quartz.jzhao.xyz/notes/docker/) kullanarak barındırma yapabilirsiniz! Ne yaptığınızı bilmiyorsanız bu yöntemi kullanmayın derim.
