@@ -47,3 +47,8 @@ Bardağın boş olan kısmını görmek, toplumumuzda sık rastlanan, doğal old
 
 Bizler farkında olarak veya olmayarak, kendimizi sınırlayarak veya sınırlandırarak çaresizlikleri öğreniyoruz. Buna, psikolojide öğrenilmiş çaresizlik deniyor. Yani bizler farkında olarak ve olmayarak çaresizliği öğreniyoruz. Halbuki insan için aşılamayacak sorun yoktur. Şu gerçek unutulmamalıdır: "Eğer biz kendimizi sınırlamazsak hiçbir şey bizi sınırlayamaz."
 ```
+
+## İlham alınabilecek içerikler
+- [Yazı](https://mail.baskent.edu.tr/~21293301/%C3%B6%C4%9Frenmeyi-%C3%B6%C4%9Frenme.html)
+- [Video](https://www.youtube.com/watch?v=8vbObzJJwMs)
+- [Video](https://www.youtube.com/watch?v=07XKJADLt_k)
