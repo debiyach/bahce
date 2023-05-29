@@ -25,18 +25,6 @@ Ulu önder [[zor|Mustafa Kemal ATATÜRK]]' ün, [[genclige-hitabe|Gençliğe Hit
 
 Minnet ve özlemle...
 
---- 
-
-### Gündem
-
-Bu bölümde bahçeye ekilecek tohum not ediyorum. 
-
-- [x] [[obsidian|Obsidian]] tanımı.
-- [x] [[quartz/quartz|Quartz]] tanımı.
-- [x] [[quartz/setup|Quartz]] kurulumu.
-- [x] [[quartz/setup|Quartz]] içerikleri tamamlama.
-- [ ] PHP programlama diline giriş.
-
 ---
 
 ### Yol Haritası
