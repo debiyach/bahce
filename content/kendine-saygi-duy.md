@@ -29,7 +29,7 @@ Emin olun hayatta mutlu olmak çok kolay, hayatı zorlaştıran bizleriz. Ebevey
 ## Benim kendime saygım
 Son zamanlarda en çok kafama takılan kavram **öğrenmeyi öğrenmek**ti. Araştırıyordum fakat gerçekten nereden nasıl başlayacağımı bilmiyordum. Sanırım ben yukarıdaki iki maddeden herhangi birisinde değilim. 
 
-Bakın, "**sanırım**" diyorum ve devamında olumsuz bir eleştiri yapıyorum. Demek ki ben bu zamana kadar **öğrenilmiş çareslik** içerisindeyim. Genel olarak bir eylem yaparken ailemin ve çevremin ne düşüneceğini sorgulardım. Bu sorgulama gerçekten benim gençliğimi elimden aldı. 
+Bakın, "**sanırım**" diyorum ve devamında olumsuz bir eleştiri yapıyorum. Demek ki ben bu zamana kadar **öğrenilmiş çaresizlik** içerisindeyim. Genel olarak bir eylem yaparken ailemin ve çevremin ne düşüneceğini sorgulardım. Bu sorgulama gerçekten benim gençliğimi elimden aldı. 
 
 [[myself|Lise 3'te]] araştırma ve öğrenme iştahımın kabardığını belirtmiştim. Fakat içimden atamadığım bir çok alışkanlık ve korkular hala duruyor. Bunlar neden ve nasıl oldu diye sürekli araştırıyorum. Temelde yatan sebebi görebiliyor musunuz? **Öğrenilmiş çaresizlik**, nasıl bir kan emici kavram. Sanki bozuk para kumbarasıdır, içerisine her şeyi atmışım. Çok yazık.
 
@@ -38,15 +38,16 @@ Bu kavram hayatımda gerçekten olmasaydı ve iki maddenin birindeki çocuk olsa
 ---
 Yukarıdaki dizeleri yazmamı sağlayan bir metin var. Metinden bir kesiti paylaşıyorum. Bakalım hak verecek misiniz?
 
-```text
-Okul çağındaki bir grup çocuktan bana neler yapabildiklerini saymalarını istediğimde, ister istemez kekelemeye başlıyor. Şöyle cevaplar veriyorlar: "Ben… şey… gazete okumayı severim, eeee…, sporla ilgilenirim ve hepsi bu kadar, evet sporla ilgileni-rim."
+> [!example] Kesit
+> 
+>Okul çağındaki bir grup çocuktan bana neler yapabildiklerini saymalarını istediğimde, ister istemez kekelemeye başlıyor. Şöyle cevaplar veriyorlar: "Ben… şey… gazete okumayı severim, eeee…, sporla ilgilenirim ve hepsi bu kadar, evet sporla ilgileni-rim."
+>
+>Aynı çocuklardan kusurlarını saymalarını istediğimde seri bir şekilde saymaya başlıyorlar: "Ben çok çekingenim, kalabalığın önünde konuşmakta zorlanırım. Matematiğim hiçbir zaman iyi olmadı, ilerletmeye çalışıyorum., ama…"
+>
+>Bardağın boş olan kısmını görmek, toplumumuzda sık rastlanan, doğal olduğunu düşündüğümüz bir tavırdır, fakat insan beyninin pek de sağlıklı olmayan bir biçimde çalışmasıdır bu aslında.
+>
+>Bizler farkında olarak veya olmayarak, kendimizi sınırlayarak veya sınırlandırarak çaresizlikleri öğreniyoruz. Buna, psikolojide öğrenilmiş çaresizlik deniyor. Yani bizler farkında olarak ve olmayarak çaresizliği öğreniyoruz. Halbuki insan için aşılamayacak sorun yoktur. Şu gerçek unutulmamalıdır: "Eğer biz kendimizi sınırlamazsak hiçbir şey bizi sınırlayamaz."
 
-Aynı çocuklardan kusurlarını saymalarını istediğimde seri bir şekilde saymaya başlıyorlar: "Ben çok çekingenim, kalabalığın önünde konuşmakta zorlanırım. Matematiğim hiçbir zaman iyi olmadı, ilerletmeye çalışıyorum., ama…"
-
-Bardağın boş olan kısmını görmek, toplumumuzda sık rastlanan, doğal olduğunu düşündüğümüz bir tavırdır, fakat insan beyninin pek de sağlıklı olmayan bir biçimde çalışmasıdır bu aslında.
-
-Bizler farkında olarak veya olmayarak, kendimizi sınırlayarak veya sınırlandırarak çaresizlikleri öğreniyoruz. Buna, psikolojide öğrenilmiş çaresizlik deniyor. Yani bizler farkında olarak ve olmayarak çaresizliği öğreniyoruz. Halbuki insan için aşılamayacak sorun yoktur. Şu gerçek unutulmamalıdır: "Eğer biz kendimizi sınırlamazsak hiçbir şey bizi sınırlayamaz."
-```
 
 ## İlham alınabilecek içerikler
 - [Yazı](https://mail.baskent.edu.tr/~21293301/%C3%B6%C4%9Frenmeyi-%C3%B6%C4%9Frenme.html)
