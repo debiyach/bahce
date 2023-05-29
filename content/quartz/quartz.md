@@ -1,6 +1,7 @@
 ---
 title: "Quartz"
 enableToc: false
+url: "quartz/"
 ---
 ## Nedir?
 Quartz, [[golang/hugo|hugo]]'yu kullanarak dijital bahçe oluşturmanız için altyapı sağlayan yazılımdır. 
