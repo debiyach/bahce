@@ -8,4 +8,4 @@ title: "Yol Haritası"
 - [[quartz/quartz|Quartz]]
 
 Kişisel Gelişim
-- [[kisisel-gelisim/ogrenmeyi-ogrenmek/index|Öğrenmeyi Öğrenmek]]
+- [[kisisel-gelisim/ogrenmeyi-ogrenmek|Öğrenmeyi Öğrenmek]]
