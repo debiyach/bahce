@@ -18,3 +18,4 @@ Kendimce faydalı bulduğum web adresinlerini listeleyeceğim.
 
 [Fediverse.party](https://fediverse.party/en/miscellaneous/): Federal ağ ve activitypub konularını araştırın. Bu web adresiyse bahsi geçilen konularla ilgili oluşturulan web adreslerinin kütüphanesidir.
 
+[GoalKicker](https://goalkicker.com/): Yazılım hakkında ücretsiz olarak kaynak arayışınız varsa tavsiye edebileceğim web adresidir. İçerisinde ücretsiz PDF dosyaları mevcut.
