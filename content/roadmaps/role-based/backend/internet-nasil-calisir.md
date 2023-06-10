@@ -20,36 +20,35 @@ title: İnternet Nasıl Çalışır?
 >
 > Bu makalenin geri kalanında sadece fiziksel kablolardan bahsedeceğiz, ancak kablosuz ağlar da aynı şekilde çalışır.
 
-![[images/Pasted image 20230610224818.png]]
+![[images/internet-nasil-calisir/image-23-59-14-482-10-06-2023.png]]
 
 Böyle bir ağ iki bilgisayarla sınırlı değildir. İstediğiniz kadar bilgisayarı bağlayabilirsiniz. Ancak işler hızla karmaşıklaşır. Diyelim ki on bilgisayar bağlamaya çalışıyorsanız, bilgisayar başına dokuz fiş olmak üzere 45 kabloya ihtiyacınız vardır!
 
-![[images/Pasted image 20230610225031.png]]
-
+![[images/internet-nasil-calisir/image-23-59-24-932-10-06-2023.png]]
 
 Bu sorunu çözmek için, bir ağdaki her bilgisayar yönlendirici adı verilen özel bir küçük bilgisayara bağlanır. Bu yönlendiricinin tek bir görevi vardır: tren istasyonundaki bir işaretçi gibi, belirli bir bilgisayardan gönderilen bir mesajın doğru hedef bilgisayara ulaşmasını sağlar. B bilgisayarına bir mesaj göndermek için A bilgisayarının mesajı yönlendiriciye göndermesi gerekir, yönlendirici de mesajı B bilgisayarına iletir ve mesajın C bilgisayarına ulaşmamasını sağlar.
 
 Sisteme bir yönlendirici eklediğimizde, 10 bilgisayardan oluşan ağımız yalnızca 10 kablo gerektirir: her bilgisayar için tek bir fiş ve 10 fişli bir yönlendirici.
 
-![[images/Pasted image 20230610225757.png]]
+![[images/internet-nasil-calisir/image-23-59-42-663-10-06-2023.png]]
 
 ### Ağlardan oluşan bir ağ
 
 Buraya kadar her şey yolunda. Peki ya yüzlerce, binlerce, milyarlarca bilgisayarı birbirine bağlamak? Elbette tek bir yönlendirici bu kadar geniş ölçekli olamaz, ancak dikkatli okursanız, bir yönlendiricinin diğerleri gibi bir bilgisayar olduğunu söylemiştik, o halde bizi iki yönlendiriciyi birbirine bağlamaktan alıkoyan nedir? Hiçbir şey, öyleyse bunu yapalım.
 
-![[images/Pasted image 20230610232426.png]]
+![[images/internet-nasil-calisir/image-23-59-55-003-10-06-2023.png]]
 
 Bilgisayarları yönlendiricilere, sonra da yönlendiricileri yönlendiricilere bağlayarak sonsuz ölçeklendirme yapabiliyoruz.
 
-![[images/Pasted image 20230610232521.png]]
+![[images/internet-nasil-calisir/image-00-00-07-970-11-06-2023.png]]
 
 Böyle bir ağ, İnternet dediğimiz şeye çok yaklaşıyor ama bir şeyi kaçırıyoruz. Biz bu ağı kendi amaçlarımız için kurduk. Dışarıda başka ağlar da var: arkadaşlarınız, komşularınız, herkes kendi bilgisayar ağına sahip olabilir. Ancak eviniz ile dünyanın geri kalanı arasında kablo döşemek pek mümkün değil, peki bunu nasıl halledebilirsiniz? Örneğin elektrik ve telefon gibi evinize bağlı kablolar zaten var. Telefon altyapısı zaten evinizi dünyadaki herhangi bir yere bağlar, bu yüzden ihtiyacımız olan mükemmel kablodur. Ağımızı telefon altyapısına bağlamak için modem adı verilen özel bir ekipmana ihtiyacımız var. Bu modem, ağımızdan gelen bilgileri telefon altyapısı tarafından yönetilebilir bilgilere dönüştürür ve bunun tersi de geçerlidir.
 
-![[images/Pasted image 20230610233214.png]]
+![[images/internet-nasil-calisir/image-00-00-18-954-11-06-2023.png]]
 
 Böylece telefon altyapısına bağlanmış olduk. Bir sonraki adım, mesajları ağımızdan ulaşmak istediğimiz ağa göndermektir. Bunu yapmak için ağımızı bir **İnternet Servis Sağlayıcısına** (İSS) bağlayacağız. **İSS**, hepsi birbirine bağlı olan ve diğer İSS'lerin yönlendiricilerine de erişebilen bazı özel yönlendiricileri yöneten bir şirkettir. Böylece ağımızdan gelen mesaj **İSS** ağları üzerinden hedef ağa taşınır. İnternet tüm bu ağ altyapısından oluşur.
 
-![[images/Pasted image 20230610233514.png]]
+![[images/internet-nasil-calisir/image-00-00-29-261-11-06-2023.png]]
 
 ### Bilgisayar bulma
 
@@ -57,7 +56,7 @@ Eğer bir bilgisayara mesaj göndermek istiyorsanız, hangi bilgisayar olduğunu
 
 Bu bilgisayarlar için gayet iyidir, ancak biz insanlar bu tür bir adresi hatırlamakta zorlanırız. İşleri kolaylaştırmak için, bir IP adresini alan adı adı verilen insan tarafından okunabilir bir adla takma ad (`domain name`) olarak kullanabiliriz. Örneğin (yazım sırasında IP adresleri değişebilir) `google.com`, `142.250.190.78` IP adresinin üstünde kullanılan alan adıdır. Yani alan adını kullanmak, İnternet üzerinden bir bilgisayara ulaşmamızın en kolay yoludur.
 
-![[images/Pasted image 20230610234019.png]]
+![[images/internet-nasil-calisir/image-00-00-39-407-11-06-2023.png]]
 
 ### İnternet ve web
 
@@ -71,7 +70,7 @@ Extranetler Intranetlere çok benzer, ancak diğer kuruluşlarla paylaşıma ve 
 
 Hem intranetler hem de extranetler İnternet ile aynı tür bir altyapı üzerinde çalışır ve aynı protokolleri kullanır. Bu nedenle farklı fiziksel konumlardan yetkili üyeler tarafından erişilebilirler.
 
-![[images/Pasted image 20230610234442.png]]
+![[images/internet-nasil-calisir/image-00-00-56-371-11-06-2023.png]]
 
 ## Önerilen Kaynaklar
 - [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
