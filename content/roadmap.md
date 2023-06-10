@@ -9,5 +9,8 @@ title: "Yol Haritası"
 - [[obsidian|Obsidian]]
 - [[quartz/quartz|Quartz]]
 
-Kişisel Gelişim
+#### Kişisel Gelişim
 - [[kisisel-gelisim/ogrenmeyi-ogrenmek|Öğrenmeyi Öğrenmek]]
+
+#### Yazılım
+- [[roadmaps/role-based/backend/internet-nasil-calisir|Backend Developer]]
